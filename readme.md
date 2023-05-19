@@ -1,0 +1,1 @@
+* A microservice built with amplication
